@@ -1,0 +1,19 @@
+{
+  "persons": [
+    {
+      "name": "Arto Hellas",
+      "number": "040 2123 541",
+      "id": 1
+    },
+    {
+      "name": "Joulu Pukki",
+      "number": "050 999 9999",
+      "id": 2
+    },
+    {
+      "name": "Test Person",
+      "number": "0500 1234567",
+      "id": 3
+    }
+  ]
+}
